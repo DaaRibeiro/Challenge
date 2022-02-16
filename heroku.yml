@@ -1,5 +1,4 @@
 build:
   docker:
     web: my-website/Dockerfile
-release:
-  image: web
+
