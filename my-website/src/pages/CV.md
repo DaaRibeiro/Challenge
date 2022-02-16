@@ -1,11 +1,3 @@
----
-slug: CV
-title: David Alexandre Andrés Ribeiro
-authors: [david,]
-tags: [facebook, hello, docusaurus]
----
-
-
 David Alexandre Andrés Ribeiro
 ============
 

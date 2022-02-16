@@ -54,7 +54,6 @@ export default function HomepageFeatures() {
     <section className={styles.features}>
       <div className="container">
         <h1 className="hero__title">David Ribeiro</h1>
-        <p className="hero__subtitle"></p>
       </div>
     </section>
   );
