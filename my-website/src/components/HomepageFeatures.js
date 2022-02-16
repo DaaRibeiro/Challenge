@@ -53,7 +53,7 @@ export default function HomepageFeatures() {
   return (
     <section className={styles.features}>
       <div className="container">
-        <h1 className="hero__title">David Ribeiro</h1>
+        <h1 className="hero__title">David Ribeiro Boss</h1>
       </div>
     </section>
   );
